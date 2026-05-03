@@ -1,8 +1,9 @@
 # Week 6: Asynchronous JavaScript
 
 ## Author
-- **Name:** Dolla Grace Ambwaya
-- **GitHub:** [@dollagraceambwaya-commits](https://github.com/dollagraceambwaya-commits)
+- **Name:** Daniel 
+- **GitHub:** [@mulid4155
+- -commits](https://github.com/dollagraceambwaya-commits)
 - **Date:** 31 March 2026
 
 ## Overview
